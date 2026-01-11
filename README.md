@@ -10,20 +10,17 @@ I strive to be honest, supportive, and dependable. I’m always open to taking o
 At the heart of it all, my goal is simple: to become a responsible, fulfilled individual who can look back with pride—no regrets—and make my family proud.
 
 </td>
-<td width="35%" align="right">
+<td width="35%" align="right" valign="top">
 
-<img src="https://nextshark.b-cdn.net/wp-content/uploads/2018/01/007.gif?width=1536&auto_optimize=medium&quality=85" width="260"/>
+<img src="https://i0.wp.com/68.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
 
----
 
 # Tech Stack:
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/cpp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a></p>
 
----
 
 # Projects
-
