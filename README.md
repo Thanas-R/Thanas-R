@@ -37,7 +37,3 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 # Projects
 **🚧 Work in progress — check back later!**
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" /> </p>
-
