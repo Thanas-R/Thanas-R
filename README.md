@@ -9,9 +9,9 @@ While I take my work seriously, I also value creating a positive and cheerful en
 I strive to be honest, supportive, and dependable. I’m always open to taking on responsibility and stepping into leadership roles when needed. My focus is on contributing meaningfully to any team I’m part of and learning from every experience.<br><br>
 
 <p align="left">
-  <span style="font-size:20px; font-weight:600; vertical-align:middle;">Connect with me:</span>
-  <a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" style="vertical-align:middle; margin-left:12px;" /></a>
-  <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="20" height="20" style="vertical-align:middle; margin-left:12px;" /></a>
+  <span style="font-size:30px; font-weight:600; vertical-align:middle;">Connect with me:</span>
+  <a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:12px;" /></a>
+  <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:12px;" /></a>
 </p>
 
 
