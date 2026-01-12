@@ -30,8 +30,8 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 # Tech Stack
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/C"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/C++"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-
 </p>
 
 # Projects
