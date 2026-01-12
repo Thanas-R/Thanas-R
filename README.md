@@ -10,7 +10,10 @@ While I take my work seriously, I also value creating a positive and cheerful en
 
 I strive to be honest, supportive, and reliable, taking responsibility or leading when needed while contributing and learning with the team.<br>
 
-**Connect with me:** <p align="right"> <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" /> </p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <span>**Connect with me:**</span>
+  <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" />
+</div>
 <p align="left">
  &nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
   <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
