@@ -46,4 +46,4 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 # Projects
 **🚧 Work in progress — check back later!**
 <br><br>
-<img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="75%"/>
+<img src="https://pixeljoint.com/files/icons/full/backgroundanimatedparallax.gif" width="100%"/>
