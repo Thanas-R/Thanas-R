@@ -4,7 +4,7 @@
 
 # Hello! I’m Thanas R
 
-I am a passionate learner who believes in growing a little every day. I’m deeply interested in coding and problem-solving, and I enjoy the challenge of turning complex problems into simple, effective solutions.<br><br>
+I am a passionate learner who believes in growing a little every day. I’m genuinely interested in coding and problem-solving, and I enjoy turning complex challenges into simple, effective solutions.<br><br>
 While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br><br>
 I try to be honest, supportive, and reliable. I’m comfortable taking responsibility or stepping into a leadership role when needed, and I always aim to contribute well to the team while learning along the way.<br>
 
