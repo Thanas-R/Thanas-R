@@ -13,7 +13,10 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 **Connect with me:**
 <p align="left">
  &nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
-  <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" />
 </p>
 
 </td>
@@ -27,17 +30,17 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 # Tech Stack
 <p align="left">
-&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/cpp"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/python"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/java"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/react"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/C"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/C++"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+
 </p>
 
 # Projects
 **🚧 Work in progress — check back later!**
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" /> </p>
-
