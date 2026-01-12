@@ -8,25 +8,27 @@ I am a passionate learner who believes in growing a little every day. I’m deep
 While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br><br>
 I strive to be honest, supportive, and dependable. I’m always open to taking on responsibility and stepping into leadership roles when needed. My focus is on contributing meaningfully to any team I’m part of and learning from every experience.<br><br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thanasr/" target="_blank">
+**Connect with me:**
+<div align="left" style="display:flex; gap:6px;">
+  <a href="https://www.linkedin.com/in/thanasr/" target="_blank" style="line-height:0;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="38"
       height="30"
-      style="display:block; border:0;"
       alt="LinkedIn"
     />
-  </a><a href="mailto:thanas5.rd@gmail.com" target="_blank">
+  </a>
+  <a href="mailto:thanas5.rd@gmail.com" target="_blank" style="line-height:0;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
       width="38"
       height="30"
-      style="display:block; border:0;"
       alt="Gmail"
     />
   </a>
 </div>
+
+
 
 </td>
 
