@@ -8,13 +8,13 @@ I am a passionate learner who believes in growing a little every day. I’m deep
 While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br><br>
 I strive to be honest, supportive, and dependable. I’m always open to taking on responsibility and stepping into leadership roles when needed. My focus is on contributing meaningfully to any team I’m part of and learning from every experience.<br>
 
+**Connect with me:**
 <p align="left">
-  <span style="font-size:20px; font-weight:600; vertical-align:middle;">Connect with me:</span>
   <a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px; margin-right:18px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:22px;" />
   </a>
   <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle;" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" />
   </a>
 </p>
 
