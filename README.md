@@ -10,7 +10,7 @@ I strive to be honest, supportive, and dependable. I’m always open to taking o
 
 **Connect with me:**
 <p align="left">
- &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;&nbsp;
+ &nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
 </p>
 
@@ -26,7 +26,7 @@ I strive to be honest, supportive, and dependable. I’m always open to taking o
 
 # Tech Stack
 <p align="left">
-&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/cpp"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/python"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/java"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
