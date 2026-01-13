@@ -71,25 +71,28 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 </details>
 
-
 <details>
 <summary>&nbsp;<h2>Mini Projects</h2></summary>
-
-<div align="left" style="display:flex;flex-direction:column;gap:14px;margin-top:8px;">
 
 <!-- AskBookie -->
 <table>
   <tr>
-    <td valign="top" width="140">
-      <img src="https://media.discordapp.net/attachments/976453896950124566/1460621725287841893/image.png?ex=6967957c&is=696643fc&hm=2348a674560cf57d2c73a432954a4e155b3519cfef0cc280285d74eb07fb41e5&=&format=webp&quality=lossless&width=1327&height=745" alt="AskBookie preview" width="120" style="border-radius:6px;object-fit:cover;" />
+    <td width="320" align="center" valign="middle">
+      <a href="https://ask-bookie.vercel.app">
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621725287841893/image.png?ex=6967957c&is=696643fc&hm=2348a674560cf57d2c73a432954a4e155b3519cfef0cc280285d74eb07fb41e5"
+             width="300" style="border-radius:12px;" />
+      </a>
     </td>
-    <td valign="top">
-      <h3 style="margin:0">AskBookie_</h3>
-      <p style="margin:6px 0 8px 0">Frontend developer for a production-ready Retrieval Augmented Generation (RAG) API. AskBookie answers document Q&A over PES University slide data — ideal for course Q&amp;A and quick doubt resolution.</p>
-      <p style="margin:0">
-        <a href="https://ask-bookie.vercel.app" title="Live site"><img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" width="16" alt="live" style="vertical-align:middle" /></a>
-        &nbsp;
-        <a href="https://github.com/Thanas-R/AskBookie_" title="Source (GitHub)"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" alt="github" style="vertical-align:middle" /></a>
+    <td valign="middle">
+      <div align="right">
+        <a href="https://github.com/Thanas-R/AskBookie_">
+          <img src="https://skillicons.dev/icons?i=github" width="22"/>
+        </a>
+      </div>
+      <h3>AskBookie_</h3>
+      <p>
+        Frontend developer for a production-ready <b>Retrieval Augmented Generation (RAG)</b> API.
+        AskBookie enables document Q&A over PES University slide data, helping students quickly resolve course-related doubts.
       </p>
     </td>
   </tr>
@@ -98,14 +101,17 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 <!-- ThanasOS -->
 <table>
   <tr>
-    <td valign="top" width="140">
-      <img src="https://media.discordapp.net/attachments/976453896950124566/1460622129061040138/image.png?ex=696795dc&is=6966445c&hm=be4ef8d122dff9b718a178892e74e4eb60017a891ed5c773ba4516288a2d56d6&=&format=webp&quality=lossless&width=859&height=483" alt="ThanasOS preview" width="120" style="border-radius:6px;object-fit:cover;" />
+    <td width="320" align="center" valign="middle">
+      <a href="https://thanasr-old.vercel.app">
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460622129061040138/image.png?ex=696795dc&is=6966445c&hm=be4ef8d122dff9b718a178892e74e4eb60017a891ed5c773ba4516288a2d56d6"
+             width="300" style="border-radius:12px;" />
+      </a>
     </td>
-    <td valign="top">
-      <h3 style="margin:0">ThanasOS</h3>
-      <p style="margin:6px 0 8px 0">A macOS-themed portfolio that mimics desktop interactions and showcases my projects and profile. A new portfolio is currently in production and will replace this soon.</p>
-      <p style="margin:0">
-        <a href="https://thanasr-old.vercel.app" title="Live site"><img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" width="16" alt="live" style="vertical-align:middle" /></a>
+    <td valign="middle">
+      <h3>ThanasOS</h3>
+      <p>
+        A macOS-themed portfolio website that mimics real desktop interactions while showcasing my projects and profile.
+        A newer portfolio version is currently in production and will launch soon.
       </p>
     </td>
   </tr>
@@ -114,16 +120,22 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 <!-- Smart Chef -->
 <table>
   <tr>
-    <td valign="top" width="140">
-      <img src="https://media.discordapp.net/attachments/976453896950124566/1460621679893151886/image.png?ex=69679571&is=696643f1&hm=eb16660e3fe1d52e60da698e1226753cc6f3df2b0d5834847b2495885883bc6b&=&format=webp&quality=lossless&width=1327&height=745" alt="Smart Chef preview" width="120" style="border-radius:6px;object-fit:cover;" />
+    <td width="320" align="center" valign="middle">
+      <a href="https://smart-chef-pesu.vercel.app/">
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621679893151886/image.png?ex=69679571&is=696643f1&hm=eb16660e3fe1d52e60da698e1226753cc6f3df2b0d5834847b2495885883bc6b"
+             width="300" style="border-radius:12px;" />
+      </a>
     </td>
-    <td valign="top">
-      <h3 style="margin:0">Smart Chef</h3>
-      <p style="margin:6px 0 8px 0">Semester-1 Python project: discover recipes from the ingredients you already have. Smart Chef helps you cook delicious meals without extra shopping trips.</p>
-      <p style="margin:0">
-        <a href="https://smart-chef-pesu.vercel.app/" title="Live site"><img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" width="16" alt="live" style="vertical-align:middle" /></a>
-        &nbsp;
-        <a href="https://github.com/Thanas-R/AskBookie_" title="Source (GitHub)"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" alt="github" style="vertical-align:middle" /></a>
+    <td valign="middle">
+      <div align="right">
+        <a href="https://github.com/Thanas-R/AskBookie_">
+          <img src="https://skillicons.dev/icons?i=github" width="22"/>
+        </a>
+      </div>
+      <h3>Smart Chef</h3>
+      <p>
+        Semester-1 Python project that recommends recipes based on the ingredients you already have.
+        Smart Chef helps cook delicious meals without unnecessary grocery runs.
       </p>
     </td>
   </tr>
@@ -132,16 +144,22 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 <!-- PESU Minecraft S2 -->
 <table>
   <tr>
-    <td valign="top" width="140">
-      <img src="https://media.discordapp.net/attachments/976453896950124566/1460621611844501767/image.png?ex=69679561&is=696643e1&hm=df61e91b5219f898e8cd54d379fbf0d70e93a5584ec96f3c820b5580c26b8fde&=&format=webp&quality=lossless&width=1298&height=745" alt="PESU Minecraft preview" width="120" style="border-radius:6px;object-fit:cover;" />
+    <td width="320" align="center" valign="middle">
+      <a href="https://pesu-mc.vercel.app">
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621611844501767/image.png?ex=69679561&is=696643e1&hm=df61e91b5219f898e8cd54d379fbf0d70e93a5584ec96f3c820b5580c26b8fde"
+             width="300" style="border-radius:12px;" />
+      </a>
     </td>
-    <td valign="top">
-      <h3 style="margin:0">PESU Minecraft S2</h3>
-      <p style="margin:6px 0 8px 0">Website for PESU Minecraft Server Season 2 — server info, join instructions, event calendar and community highlights. A central hub for players to join and stay updated.</p>
-      <p style="margin:0">
-        <a href="https://pesu-mc.vercel.app" title="Live site"><img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" width="16" alt="live" style="vertical-align:middle" /></a>
-        &nbsp;
-        <a href="https://github.com/Thanas-R/pesu-mc-s2" title="Source (GitHub)"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" alt="github" style="vertical-align:middle" /></a>
+    <td valign="middle">
+      <div align="right">
+        <a href="https://github.com/Thanas-R/pesu-mc-s2">
+          <img src="https://skillicons.dev/icons?i=github" width="22"/>
+        </a>
+      </div>
+      <h3>PESU Minecraft S2</h3>
+      <p>
+        Official website for PESU Minecraft Server – Season 2.
+        Displays server details, join instructions, events, and community updates for players.
       </p>
     </td>
   </tr>
@@ -150,16 +168,22 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 <!-- PESU Forge -->
 <table>
   <tr>
-    <td valign="top" width="140">
-      <img src="https://media.discordapp.net/attachments/976453896950124566/1460621705788653800/image.png?ex=69679577&is=696643f7&hm=4443f7cdad40ee882481c11f1fe112cd6ede11da687396c5ae24275335803450&=&format=webp&quality=lossless&width=1314&height=745" alt="PESU Forge preview" width="120" style="border-radius:6px;object-fit:cover;" />
+    <td width="320" align="center" valign="middle">
+      <a href="https://pesu-forge.vercel.app/">
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621705788653800/image.png?ex=69679577&is=696643f7&hm=4443f7cdad40ee882481c11f1fe112cd6ede11da687396c5ae24275335803450"
+             width="300" style="border-radius:12px;" />
+      </a>
     </td>
-    <td valign="top">
-      <h3 style="margin:0">PESU Forge</h3>
-      <p style="margin:6px 0 8px 0">Transforms course notes into interactive, AI-powered educational games. PESU Forge makes studying more engaging with quizzes and mini-games built from your notes.</p>
-      <p style="margin:0">
-        <a href="https://pesu-forge.vercel.app/" title="Live site"><img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" width="16" alt="live" style="vertical-align:middle" /></a>
-        &nbsp;
-        <a href="https://github.com/Thanas-R/PESU-Forge" title="Source (GitHub)"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" alt="github" style="vertical-align:middle" /></a>
+    <td valign="middle">
+      <div align="right">
+        <a href="https://github.com/Thanas-R/PESU-Forge">
+          <img src="https://skillicons.dev/icons?i=github" width="22"/>
+        </a>
+      </div>
+      <h3>PESU Forge</h3>
+      <p>
+        Converts academic notes into interactive, AI-powered educational games.
+        Designed to make learning more engaging through quizzes and playable study content.
       </p>
     </td>
   </tr>
@@ -168,24 +192,16 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 <!-- Contour Flow Demo -->
 <table>
   <tr>
-    <td valign="top" width="140">
-      <div style="width:120px;height:70px;border-radius:6px;background:#f3f4f6;display:flex;align-items:center;justify-content:center;color:#9ca3af">Preview</div>
+    <td width="320" align="center" valign="middle">
+      <a href="https://contour-flow-test.vercel.app/">
+        <div style="width:300px;height:180px;border-radius:12px;background:#f3f4f6;display:flex;align-items:center;justify-content:center;color:#9ca3af">
+          Preview
+        </div>
+      </a>
     </td>
-    <td valign="top">
-      <h3 style="margin:0">Contour Flow Demo</h3>
-      <p style="margin:6px 0 8px 0">A lightweight background animation demo I built — easy to drop into portfolio projects for a subtle animated effect.</p>
-      <p style="margin:0">
-        <a href="https://contour-flow-test.vercel.app/" title="Live demo"><img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" width="16" alt="live" style="vertical-align:middle" /></a>
-        &nbsp;
-        <a href="https://github.com/Thanas-R/contour-flow-test" title="Source (GitHub)"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" alt="github" style="vertical-align:middle" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+    <td valign="middle">
+      <div align
 
-</div>
-
-</details>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="60%" />
