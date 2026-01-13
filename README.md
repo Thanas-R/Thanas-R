@@ -50,7 +50,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 <div align="center">
   <a href="https://open.spotify.com/user/1ruu5bmall8721u0hsnedbbxh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&width=300" alt="Spotify recently played"  />
   </a>
 </div>
 
