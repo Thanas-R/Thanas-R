@@ -44,26 +44,17 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </p>
 
 # Projects
-**🚧 Work in progress — check back later!**
 <br><br>
 <details>
-<summary>Click to expand the dropdown</summary>
+&nbsp;<summary>Mega Project</summary>
 
-Here is the content that is hidden by default.
+**🚧 Work in progress — check back later!**
 
-*   You can include lists.
-*   You can also include **bold** text or *italics*.
-*   Even [links to Google](https://google.com) work.
-
-</details>
+</details><br><br>
 <details>
-<summary>Click to expand the dropdown</summary>
+&nbsp;<summary>Mini Projects</summary>
 
-Here is the content that is hidden by default.
-
-*   You can include lists.
-*   You can also include **bold** text or *italics*.
-*   Even [links to Google](https://google.com) work.
+i will write content here also dw
 
 </details>
 <br><br>
