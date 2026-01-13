@@ -88,7 +88,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
         Frontend developer for a production-ready Retrieval Augmented Generation (RAG) API.
         AskBookie provides document Q&amp;A over PES University slide data to help students resolve course doubts quickly.
       </p>
-      <div style="position:absolute;bottom:8px;right:8px;">
+      <div align="right">
         <a href="https://github.com/Thanas-R/AskBookie_">
           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
         </a>
@@ -111,7 +111,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
         A macOS-themed portfolio that mimics desktop interactions while showcasing my projects and profile.
         (A new portfolio is in production and will replace this soon.)
       </p>
-      <div style="position:absolute;bottom:8px;right:8px;">
+      <div align="right">
         <a href="https://github.com/Thanas-R">
           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
         </a>
@@ -133,7 +133,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
       <p style="margin:0;">
         Semester-1 Python project that recommends recipes based on the ingredients you already have — no extra shopping required.
       </p>
-      <div style="position:absolute;bottom:8px;right:8px;">
+      <div align="right">
         <a href="https://github.com/Thanas-R">
           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
         </a>
@@ -155,7 +155,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
       <p style="margin:0;">
         Official website for PESU Minecraft Server — Season 2. Includes events, server info, join instructions, and community updates.
       </p>
-      <div style="position:absolute;bottom:8px;right:8px;">
+      <div align="right">
         <a href="https://github.com/Thanas-R/pesu-mc-s2">
           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
         </a>
@@ -177,7 +177,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
       <p style="margin:0;">
         AI-powered platform that converts course notes into interactive quizzes and mini-games to make studying more engaging.
       </p>
-      <div style="position:absolute;bottom:8px;right:8px;">
+      <div align="right">
         <a href="https://github.com/Thanas-R/PESU-Forge">
           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
         </a>
@@ -199,7 +199,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
       <p style="margin:0;">
         Lightweight animated background demo designed for subtle motion in modern portfolio websites — reusable and easy to integrate.
       </p>
-      <div style="position:absolute;bottom:8px;right:8px;">
+      <div align="right">
         <a href="https://github.com/Thanas-R/contour-flow-test">
           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
         </a>
