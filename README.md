@@ -64,7 +64,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
         This project is currently under active development.  
         A complete demo, detailed write-up, and source code will be added once everything is finalized.
         <br/><br/>
-        <em>Stay tuned — full release coming soon.</em>
       </p>
     </td>
   </tr>
