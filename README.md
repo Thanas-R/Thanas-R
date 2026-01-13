@@ -50,7 +50,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
   <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="55%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/1ruu5bmall8721u0hsnedbbxh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&width=300&count=4" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&width=300&count=3" />
   </a>
 </div>
 
