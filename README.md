@@ -89,7 +89,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
         AskBookie provides document Q&amp;A over PES University slide data to help students resolve course doubts quickly.
       </p>
       <div align="right">
-        <a href="https://github.com/Thanas-R/AskBookie_">
+        <a href="https://github.com/dotpmm/askbookie">
           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
         </a>
       </div>
