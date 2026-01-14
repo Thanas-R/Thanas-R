@@ -45,7 +45,9 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 # Projects
 <details>
-<summary>&nbsp;<h2>Mega Project</h2></summary>
+<summary>
+  <span style="font-size:1.6em;font-weight:700;">Mega Projects</span>
+</summary>
 
 <table>
   <tr>
