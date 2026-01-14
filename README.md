@@ -44,7 +44,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </p>
 
 # Projects
-<h2>Mega Projects</h2>
+> <h2>Mega Projects</h2>
 <details>
   <summary>&nbsp;Click Here</summary>
  <br>
@@ -74,7 +74,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 </details>
 
-<h2>Mini Projects</h2>
+> <h2>Mini Projects</h2>
 <details>
   <summary>&nbsp;Click Here</summary>
 <br>
@@ -221,3 +221,5 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&width=300&count=4" />
   </a>
 </div>
+> [!IMPORTANT]
+> 🔗 **Resume:** <a href="https://drive.google.com/..." target="_blank">View / Download</a>
