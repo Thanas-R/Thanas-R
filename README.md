@@ -46,7 +46,8 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 # Projects
 <h2>Mega Projects</h2>
 <details>
-  <summary>&nbsp;Click to expand</summary>
+  <summary>&nbsp;Click Here</summary>
+ <br>
 
 
 <table>
@@ -75,8 +76,8 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 <h2>Mini Projects</h2>
 <details>
-  <summary>&nbsp;Click to expand</summary>
-
+  <summary>&nbsp;Click Here</summary>
+<br>
 <table width="100%">
   <tr>
     <td width="320" valign="middle" align="center">
