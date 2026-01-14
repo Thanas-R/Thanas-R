@@ -46,7 +46,13 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 # Projects
 <details>
 <summary>
-  <span style="font-size:1.6em;font-weight:700;">Mega Projects</span>
+  <span style="
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.3;
+  ">
+    Mega Projects
+  </span>
 </summary>
 
 <table>
