@@ -138,7 +138,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Smart Chef</h3>
 >       <p style="margin:0;">
->         Semester-1 Python project that recommends recipes based on the ingredients you already have — no extra shopping required.
+>         An in-memory Vector Space Model using TF-IDF and cosine similarity to demonstrate ultra-fast similarity matching in Python, with recipes used as a practical application domain.
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/Smart-Chef">
