@@ -138,7 +138,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Smart Chef</h3>
 >       <p style="margin:0;">
->         Semester-1 Python project that recommends recipes based on the ingredients you already have — no extra shopping required.
+>         An in-memory Vector Space Model using TF-IDF and cosine similarity to demonstrate ultra-fast similarity matching in Python, with recipes used as a practical application domain.
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/Smart-Chef">
@@ -197,7 +197,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://contour-flow-test.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460627840545325219/image.png?ex=69679b2e&is=696649ae&hm=c4f3c7949de4842675b140a49418ef0bdb2b25f790affc13a90e985e47836627"
+>         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460997565725151455/image.png?ex=6968f383&is=6967a203&hm=3ddc9ee087e9d0c3a8a093380d5539c8c6e814f0d6c746b3b5ae75ab15effd33"
 >              alt="Contour Flow preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
