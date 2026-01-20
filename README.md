@@ -96,7 +96,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >         AskBookie provides document Q&amp;A over PES University slide data to help students resolve course doubts quickly.
 >       </p>
 >       <div align="right">
->         <a href="https://github.com/dotpmm/askbookie">
+>         <a href="https://github.com/dotpmm/askbookie-frontend">
 >           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
 >         </a>
 >       </div>
@@ -163,7 +163,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >         Official website for PESU Minecraft Server — Season 2. Includes events, server info, join instructions, and community updates.
 >       </p>
 >       <div align="right">
->         <a href="https://github.com/Thanas-R/pesu-mc-s2">
+>         <a href="https://github.com/Thanas-R/PESU-MC-S2-Website">
 >           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
 >         </a>
 >       </div>
