@@ -81,6 +81,28 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >
 > <br>
 >
+> <table width="100%" style="margin-top:14px;">
+>   <tr>
+>     <td width="320" valign="middle" align="center">
+>       <a href="https://contour-flow-test.vercel.app/">
+>         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460997565725151455/image.png?ex=6968f383&is=6967a203&hm=3ddc9ee087e9d0c3a8a093380d5539c8c6e814f0d6c746b3b5ae75ab15effd33"
+>              alt="Contour Flow preview" width="300" style="border-radius:12px;" />
+>       </a>
+>     </td>
+>     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>       <h3 style="margin:0 0 6px 0;">Contour Flow Demo</h3>
+>       <p style="margin:0;">
+>         Lightweight animated background demo designed for subtle motion in modern portfolio websites — reusable and easy to integrate.
+>       </p>
+>       <div align="right">
+>         <a href="https://github.com/Thanas-R/contour-flow-test">
+>           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
+>         </a>
+>       </div>
+>     </td>
+>   </tr>
+> </table>
+>
 > <table width="100%">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
@@ -186,28 +208,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/PESU-Forge">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
->     </td>
->   </tr>
-> </table>
->
-> <table width="100%" style="margin-top:14px;">
->   <tr>
->     <td width="320" valign="middle" align="center">
->       <a href="https://contour-flow-test.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460997565725151455/image.png?ex=6968f383&is=6967a203&hm=3ddc9ee087e9d0c3a8a093380d5539c8c6e814f0d6c746b3b5ae75ab15effd33"
->              alt="Contour Flow preview" width="300" style="border-radius:12px;" />
->       </a>
->     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">Contour Flow Demo</h3>
->       <p style="margin:0;">
->         Lightweight animated background demo designed for subtle motion in modern portfolio websites — reusable and easy to integrate.
->       </p>
->       <div align="right">
->         <a href="https://github.com/Thanas-R/contour-flow-test">
 >           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
 >         </a>
 >       </div>
