@@ -72,7 +72,27 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   </tr>
 > </table>
 >
-> </details>
+> <table>
+>  <tr>
+>    <td width="320" valign="middle" align="center">
+>      <img 
+>        src="https://cdn.discordapp.com/attachments/1445817086596219062/1465064271149924352/image.png?ex=697867ad&is=6977162d&hm=04d80e854445c81c239ec7e0684389b68c7b9faef88f881302cc2580c94a6d37"
+>        alt="Spheal project sneak peek"
+>        width="300"
+>        style="border-radius:12px;"
+>      />
+>    </td>
+>    <td valign="middle">
+>      <h3 style="margin:0 0 6px 0;">Spheal</h3>
+>      <p style="margin:0;">
+>        <strong>A sneak peek into Spheal — an agentic AI public transport assistant.</strong><br/><br/>
+>        Spheal is currently under active development.<br/>
+>        A full demo, detailed technical write-up, and source code will be published once the system is finalized.
+>        <br/><br/>
+>      </p>
+>    </td>
+  </tr>
+</table>
 
 
 > <h2>Mini Projects</h2>
