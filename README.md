@@ -45,7 +45,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 # Projects
 
-> ## Mega Projects
+> ## Upcoming Projects
 > <details>
 > <summary>&nbsp;Click Here</summary>
 > 
