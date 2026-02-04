@@ -106,7 +106,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-mc.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832019697700964/image.png?ex=6982ca85&is=69817905&hm=38cd19f14400f4e262aeb60940ff45ed95572c081ba5f2d251fc4cfd8ef3a01a"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832019697700964/image.png?ex=69841c05&is=6982ca85&hm=dc7ab38720a7b3a0ed21623e36cf032142f08009fa4fa940ce71a6e09a7caf38"
 >              alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
