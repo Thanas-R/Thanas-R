@@ -85,7 +85,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >    <td valign="middle">
 >      <h3 style="margin:0 0 6px 0;">Spheal</h3>
 >      <p style="margin:0;">
->        <strong>A sneak peek into Spheal — an agentic AI public transport assistant.</strong><br/><br/>
+>        <strong>A sneak peek into Spheal — an agentic AI trip planner.</strong><br/><br/>
 >        Spheal is currently under active development.<br/>
 >        A full demo, detailed technical write-up, and source code will be published once the system is finalized.
 >        <br/><br/>
