@@ -1,7 +1,6 @@
 <table>
 <tr>
 <td width="65%" valign="top">
-
 # Hello, I’m Thanas R
 
 I am a passionate learner who believes in growing a little every day. I’m genuinely interested in coding and problem-solving, and I enjoy turning complex challenges into simple, effective solutions.<br>
@@ -10,7 +9,6 @@ While I take my work seriously, I also value creating a positive and cheerful en
 
 I strive to be honest, supportive, and reliable, taking responsibility or leading when needed while contributing and learning with the team.<br>
 
-I strive to be honest, supportive, and reliable, taking responsibility or leading when needed while contributing and learning with the team.<br>
 
 
 **Connect with me:**
