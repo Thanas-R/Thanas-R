@@ -234,18 +234,18 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > 
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
->     <td width="50%" style="padding:8px;">
->       <img src="Project-Images/nautilus.png" alt="Nautilus" width="300" style="border-radius:12px; display:block; margin:0;" />
+>     <td width="50%" style="padding:8px; text-align:center;">
+>       <img src="Project-Images/nautilus.png" alt="Nautilus" width="300" height="200" style="border-radius:12px; object-fit:cover; display:block; margin:0 auto;" />
 >     </td>
->     <td width="50%" style="padding:8px;">
->       <img src="Project-Images/spheal.png" alt="Spheal" width="300" style="border-radius:12px; display:block; margin:0;" />
+>     <td width="50%" style="padding:8px; text-align:center;">
+>       <img src="Project-Images/spheal.png" alt="Spheal" width="300" height="200" style="border-radius:12px; object-fit:cover; display:block; margin:0 auto;" />
 >     </td>
 >   </tr>
 >   <tr>
->     <td width="50%" style="text-align:left; padding:8px;">
+>     <td width="50%" style="text-align:center; padding:8px;">
 >       <strong>Nautilus</strong>
 >     </td>
->     <td width="50%" style="text-align:left; padding:8px;">
+>     <td width="50%" style="text-align:center; padding:8px;">
 >       <strong>Spheal</strong>
 >     </td>
 >   </tr>
