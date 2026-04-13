@@ -85,7 +85,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Virdis</h3>
 >       <p style="margin:0;">
->         A precision agriculture web platform that helps farmers and agronomists map fields, monitor crop health from satellite imagery, and receive AI-driven agronomic insights through an interactive geospatial dashboard.
+>         Satellite-powered agricultural and land analytics platform that combines Sentinel-2 satellite imagery, Google Earth Engine processing, real-time weather data, soil science databases, and AI-driven crop planning into a single web dashboard.
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/Virdis">
