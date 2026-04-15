@@ -13,21 +13,31 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 **Connect with me:**
 <p align="left">
-  <a href="https://thanas.vercel.app">
-    <img src="Project-Images/profile.png" width="30" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/thanasr/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" />
-  </a>
-  <a href="mailto:thanas5.rd@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
-  </a>
-  <a href="https://discord.com/users/677174403859087378">
-    <img src="https://skillicons.dev/icons?i=discord" width="30" height="30" />
-  </a>
-  <a href="https://github.com/Thanas-R">
-    <img src="https://skillicons.dev/icons?i=github" width="30" height="30" />
-  </a>
+  <span>
+    <a href="https://thanas.vercel.app">
+      <img src="Project-Images/profile.png" width="30" height="30" />
+    </a>
+  </span>
+  <span>
+    <a href="https://www.linkedin.com/in/thanasr/">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" />
+    </a>
+  </span>
+  <span>
+    <a href="mailto:thanas5.rd@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
+    </a>
+  </span>
+  <span>
+    <a href="https://discord.com/users/677174403859087378">
+      <img src="https://skillicons.dev/icons?i=discord" width="30" height="30" />
+    </a>
+  </span>
+  <span>
+    <a href="https://github.com/Thanas-R">
+      <img src="https://skillicons.dev/icons?i=github" width="30" height="30" />
+    </a>
+  </span>
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" />
