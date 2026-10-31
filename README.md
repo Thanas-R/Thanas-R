@@ -69,7 +69,8 @@ research related idea. Always open to collaboration & new opportunities :)
   <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" height="25"></a>&nbsp;
   <a href="https://github.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="25"></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" height="25"></a>&nbsp;
-   <a href="https://vercel.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg" height="25"></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" height="25"></a>&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" height="25"></a>
 </p>
 
 
