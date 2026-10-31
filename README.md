@@ -22,7 +22,7 @@ research related idea. Always open to collaboration & new opportunities :)
 
 **Connect with me:**
 <p align="left">
-ㅤ
+ 
 <a href="https://thanas.vercel.app"><img src="Project-Images/profile.png" width="30"></a><img width="10">
 <a href="https://www.linkedin.com/in/thanasr/"><img src="https://skillicons.dev/icons?i=linkedin" width="30"></a><img width="10">
 <a href="mailto:thanas5.rd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"></a><img width="10">
