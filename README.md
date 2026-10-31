@@ -1,18 +1,28 @@
- <table>
+<table>
 <tr>
 <td width="65%" valign="top">
- 
-# Hello, I’m Thanas R
+<pre>
+HI I AM
+ㅤ
+████████╗██╗  ██╗ █████╗ ███╗   ██╗ █████╗ ███████╗     
+╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██╔════╝  
+   ██║   ███████║███████║██╔██╗ ██║███████║███████╗     
+   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║╚════██║     
+   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║███████║    
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    
+ㅤ
+─ ABOUT ME ───────────────────────────────────────────────────────────────
+a curious developer & student who enjoys building things, solving problems
+and exploring new tech. i do full stack and ai&ml related work mostly but
+am always looking to learn something new. Also into OSS contribution kinda
+ㅤ
+currently trying to build some useful projects and am exploring and trying
+research related idea. Always open to collaboration & new opportunities :)
+</pre>
 
-I am a passionate learner who believes in growing a little every day. I’m genuinely interested in coding and problem-solving, and I enjoy turning complex challenges into simple, effective solutions.<br>
-
-While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br>
-
-I strive to be honest, supportive, and reliable, taking responsibility or leading when needed while contributing and learning with the team.<br>
-
-
-**Connect with me:**
+ㅤ**Connect with me:**
 <p align="left">
+ㅤㅤ
 <a href="https://thanas.vercel.app"><img src="Project-Images/profile.png" width="30"></a><img width="10">
 <a href="https://www.linkedin.com/in/thanasr/"><img src="https://skillicons.dev/icons?i=linkedin" width="30"></a><img width="10">
 <a href="mailto:thanas5.rd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"></a><img width="10">
@@ -31,14 +41,14 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </table>
 
 
-# Tech Stack
+## Tech Stack & Languages
 
 <p align="left"><a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45"></a><img width="10"><a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" width="45"></a><img width="10"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45"></a><img width="10"><a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="45"></a><img width="10"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45"></a><img width="10"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"></a><img width="10"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45"></a><img width="10"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"></a><img width="10"><a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="45"></a><img width="10"><a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="45"></a><img width="10"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45"></a><img width="10"><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"></a><img width="10"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"></a><img width="10"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45"></a><img width="10"><a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45"></a></p>
 
 
-# Projects
+## My Work
 
-> ## Projects
+> ### Projects : )
 > 
 > <details>
 > <summary>&nbsp;Click Here</summary>
@@ -254,7 +264,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > 
 > </details>
 
-> ## Upcoming Projects
+> ### Upcoming stuff
 > <details>
 > <summary><b>Click to expand</b></summary>
 > 
