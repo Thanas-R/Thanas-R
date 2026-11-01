@@ -27,9 +27,7 @@ research related idea. Always open to collaboration & new opportunities :)
 <a href="mailto:thanas5.rd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"></a><img width="10">
 <a href="https://discord.com/users/677174403859087378"><img src="https://skillicons.dev/icons?i=discord" width="30"></a><img width="10">
 <a href="https://github.com/Thanas-R"><img src="https://skillicons.dev/icons?i=github" width="30"></a>
-
-<img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" align="right"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=555F6F&style=flat" align="right"/></p>
 
 </td>
 
@@ -264,8 +262,7 @@ research related idea. Always open to collaboration & new opportunities :)
 
 > ### Upcoming stuff
 > <details>
-> <summary><b>Click to expand</b></summary>
-> 
+> <summary>&nbsp;Click Here</summary>> 
 > <br/>
 > 
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
