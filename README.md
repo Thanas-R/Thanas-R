@@ -261,7 +261,7 @@ currently trying to build some useful projects and try some research ideas
 
 > ### Upcoming stuff
 > <details>
-> <summary>&nbsp;Click Here</summary>> 
+> <summary>&nbsp;Click Here</summary>
 > <br/>
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
