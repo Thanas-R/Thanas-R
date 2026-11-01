@@ -263,7 +263,6 @@ currently trying to build some useful projects and try some research ideas
 > <details>
 > <summary>&nbsp;Click Here</summary>> 
 > <br/>
-> 
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="50%" style="padding:8px; text-align:center;">
