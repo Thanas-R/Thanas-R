@@ -13,7 +13,7 @@ HI I AM
 ㅤ
 ─ ABOUT ME ───────────────────────────────────────────────────────────────
 a curious developer & student who enjoys building things, solving problems
-and exploring new tech. i do full stack and ai&ml related work mostly but
+and exploring new tech. i do full stack and ai-ml related work mostly but
 am always looking to learn something new. Also into OSS contribution kinda
 ㅤ
 currently trying to build some useful projects and try some research ideas
