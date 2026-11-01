@@ -39,39 +39,8 @@ research related idea. Always open to collaboration & new opportunities :)
 </tr>
 </table>
 
-
 ## Tech Stack & Languages
-
-<p align="left">
-  <a href="https://en.cppreference.com/w/c"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" height="25"></a>&nbsp;
-  <a href="https://en.cppreference.com/w/cpp"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" height="25"></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" height="25"></a>&nbsp;
-  <a href="https://www.oracle.com/java/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" height="25"></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="25"></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" height="25"></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" height="25"></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" height="25"></a>&nbsp;
-  <a href="https://go.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" height="25"></a>&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" height="25"></a>&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" height="25"></a>&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" height="25"></a>&nbsp;
-  <a href="https://www.sqlite.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg" height="25"></a>&nbsp;
-  <a href="https://supabase.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" height="25"></a>&nbsp;
-  <a href="https://angular.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular2.svg" height="25"></a>&nbsp;
-  <a href="https://react.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" height="25"></a>&nbsp;
-  <a href="https://nextjs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" height="25"></a>&nbsp;
-  <a href="https://vite.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" height="25"></a>&nbsp;
-  <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="25"></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="25"></a>&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" height="25"></a>&nbsp;
-  <a href="https://pytorch.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" height="25"></a>&nbsp;
-  <a href="https://www.tensorflow.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" height="25"></a>&nbsp;
-  <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" height="25"></a>&nbsp;
-  <a href="https://github.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="25"></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" height="25"></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" height="25"></a>&nbsp;
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" height="25"></a>
-</p>
+<p align="left"><a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45"></a><img width="10"><a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" width="45"></a><img width="10"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45"></a><img width="10"><a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="45"></a><img width="10"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45"></a><img width="10"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"></a><img width="10"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45"></a><img width="10"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"></a><img width="10"><a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="45"></a><img width="10"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45"></a><img width="10"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"></a><img width="10"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45"></a><img width="10"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="45"></a><img width="10"><a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="45"></a><img width="10"><a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="45"></a><img width="10"><a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" width="45"></a><img width="10"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"></a><img width="10"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45"></a><img width="10"><a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="45"></a><img width="10"><a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="45"></a><img width="10"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45"></a><img width="10"><a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="45"></a><img width="10"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45"></a><img width="10"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="45"></a><img width="10"><a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"></a><img width="10"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"></a><img width="10"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45"></a><img width="10"><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"></a><img width="10"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45"></a><img width="10"><a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45"></a></p>
 
 
 
@@ -87,7 +56,7 @@ research related idea. Always open to collaboration & new opportunities :)
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
->       <a href="https://thanas.vercel.app">
+>       <a href="https://thanas.dev">
 >         <img src="Project-Images/thanas-portfolio.png" alt="Portfolio preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
