@@ -3,6 +3,7 @@
 <td width="65%" valign="top">
 <pre>
 HI I AM
+ㅤ
 ▀█▀ █ █ ▄▀█ █▄ █ ▄▀█ █▀
  █  █▀█ █▀█ █ ▀█ █▀█ ▄█
 ㅤ
@@ -17,7 +18,6 @@ always keen to learn something new. i also into Open-Source contributing :)
 ㅤ
 </pre>
 
-currently trying to build some useful projects & trying some research ideas
 **Connect with me:**
 <p align="left">
 <a href="https://thanas.dev"><img src="Project-Images/profile.png" width="30"></a><img width="10">
