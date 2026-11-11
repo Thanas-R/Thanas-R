@@ -10,6 +10,7 @@
 am curious developer & student who loves building things, solving problems
 and exploring new tech. i do full stack and  ml related work mostly but am 
 always keen to learn something new. i am also into contributing to OSS  :)
+ㅤ
 currently am trying to build some useful projects & trying my research idea
 ㅤ
 ─ EXPERIENCES ─────────────────────────────────────────────────────────────
