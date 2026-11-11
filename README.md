@@ -3,7 +3,6 @@
 <td width="65%" valign="top">
 <pre>
 HI I AM
-ㅤ
 ▀█▀ █ █ ▄▀█ █▄ █ ▄▀█ █▀
  █  █▀█ █▀█ █ ▀█ █▀█ ▄█
 ㅤ
@@ -11,14 +10,14 @@ HI I AM
 am curious developer & student who loves building things, solving problems
 and exploring new tech. i do full stack and  ml related work mostly but am 
 always keen to learn something new. i also into Open-Source contributing :)
-
-currently trying to build some useful projects & trying some research ideas
-
+ㅤ
 ─ EXPERIENCES ─────────────────────────────────────────────────────────────
 . The Innovation Lab :...........................Member (May 2026 - Present)
 . QSG Technologies Pvt Ltd:............Summer Intern (June 2026 - July 2026)
+ㅤ
 </pre>
 
+currently trying to build some useful projects & trying some research ideas
 **Connect with me:**
 <p align="left">
 <a href="https://thanas.dev"><img src="Project-Images/profile.png" width="30"></a><img width="10">
