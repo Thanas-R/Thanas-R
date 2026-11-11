@@ -1,8 +1,7 @@
 <table>
 <tr>
 <td width="65%" valign="top">
-<pre>
-HI I AM
+<pre>HI I AM
 ㅤ
 ▀█▀ █ █ ▄▀█ █▄ █ ▄▀█ █▀
  █  █▀█ █▀█ █ ▀█ █▀█ ▄█
@@ -10,9 +9,8 @@ HI I AM
 ─ ABOUT ME ───────────────────────────────────────────────────────────────
 am curious developer & student who loves building things, solving problems
 and exploring new tech. i do full stack and  ml related work mostly but am 
-always keen to learn something new. i also into Open-Source contributing :)
-ㅤ
-currently trying to build some useful projects & trying some research ideas
+always keen to learn something new. i am also into contributing to OSS  :)
+currently am trying to build some useful projects & trying my research idea
 ㅤ
 ─ EXPERIENCES ─────────────────────────────────────────────────────────────
 . The Innovation Lab :...........................Member (May 2026 - Present)
