@@ -10,11 +10,10 @@
 am curious developer & student who loves building things, solving problems
 and exploring new tech. i do full stack and  ml related work mostly but am 
 always keen to learn something new. i am also into contributing to OSS  :)
-ㅤ
-currently am trying to build some useful projects & trying my research idea
+right now am trying to build some useful projects & trying a research idea
 ㅤ
 ─ EXPERIENCES ─────────────────────────────────────────────────────────────
-. The Innovation Lab :...........................Member (May 2026 - Present)
+. The Innovation Lab :..........................Member (May 2026 - Present)
 . QSG Technologies Pvt Ltd:............Summer Intern (June 2026 - July 2026) </pre>
 
 **Connect with me:**
