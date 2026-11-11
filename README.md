@@ -14,7 +14,7 @@ right now am trying to build some useful projects & trying a research idea
 ㅤ
 ─ EXPERIENCES ─────────────────────────────────────────────────────────────
 . The Innovation Lab :..........................Member (May 2026 - Present)
-. QSG Technologies Pvt Ltd:............Summer Intern (June 2026 - July 2026) </pre>
+. QSG Technologies Pvt Ltd:...........Summer Intern (June 2026 - July 2026) </pre>
 
 **Connect with me:**
 <p align="left">
