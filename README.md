@@ -4,19 +4,19 @@
 <pre>
 HI I AM
 ㅤ
-████████╗██╗  ██╗ █████╗ ███╗   ██╗ █████╗ ███████╗     
-╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██╔════╝  
-   ██║   ███████║███████║██╔██╗ ██║███████║███████╗     
-   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║╚════██║     
-   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║███████║    
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    
+▀█▀ █ █ ▄▀█ █▄ █ ▄▀█ █▀
+ █  █▀█ █▀█ █ ▀█ █▀█ ▄█
 ㅤ
 ─ ABOUT ME ───────────────────────────────────────────────────────────────
-a curious developer & student who enjoys building things, solving problems
-and exploring new tech. i do full stack and ai-ml related work mostly but
-am always looking to learn something new. Also into OSS contribution kinda
-ㅤ
-currently trying to build some useful projects and try some research ideas
+am curious developer & student who loves building things, solving problems
+and exploring new tech. i do full stack and  ml related work mostly but am 
+always keen to learn something new. i also into Open-Source contributing :)
+
+currently trying to build some useful projects & trying some research ideas
+
+- EXPERIENCES ─────────────────────────────────────────────────────────────
+. The Innovation Lab :...........................Member (May 2026 - Present)
+. QSG Technologies Pvt Ltd:............Summer Intern (June 2026 - July 2026)
 </pre>
 
 **Connect with me:**
