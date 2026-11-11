@@ -14,7 +14,7 @@ always keen to learn something new. i also into Open-Source contributing :)
 
 currently trying to build some useful projects & trying some research ideas
 
-- EXPERIENCES ─────────────────────────────────────────────────────────────
+─ EXPERIENCES ─────────────────────────────────────────────────────────────
 . The Innovation Lab :...........................Member (May 2026 - Present)
 . QSG Technologies Pvt Ltd:............Summer Intern (June 2026 - July 2026)
 </pre>
