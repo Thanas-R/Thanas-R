@@ -9,7 +9,7 @@
 ─ ABOUT ME ───────────────────────────────────────────────────────────────
 am curious developer & student who loves building things, solving problems
 and exploring new tech. i do full stack and  ml related work mostly but am 
-always keen to learn something new. i am also into contributing to OSS  :)
+always keen to learn something new. i am also into contributing to OSS  ツ
 right now am trying to build some useful projects & trying a research idea
 ㅤ
 ─ EXPERIENCES ─────────────────────────────────────────────────────────────
